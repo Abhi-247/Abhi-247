@@ -7,9 +7,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="Profile views" />
   <h3>
-    <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-    <a href="https://twitter.com/YOUR_TWITTER">X / Twitter</a>
+    <a href="https://github.com/Abhi-247">GitHub</a> •
+    <a href="https://www.linkedin.com/in/abhishek-verma247-">LinkedIn</a>
   </h3>
 </div>
 
@@ -17,7 +16,6 @@
 
 <!-- ====== ABOUT ====== -->
 ## About Me
-- 🔭 I’m currently working on **project-name** — a short one-liner describing it.
 - 🌱 I’m learning **TypeScript**, **Next.js**, and **Kubernetes**.
 - 👯 I’m open to collaborating on **open-source** projects and interesting dev problems.
 - 💬 Ask me about **web dev**, **APIs**, or **DevOps automation**.
@@ -42,38 +40,30 @@
 ## GitHub Stats
 <div align="center">
   <!-- Replace YOUR_USERNAME with your GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-2473&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2473&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-<!-- ====== ACTIVITY / WAKATIME ====== -->
-## Current Activity
-- 🕒 My most recent blog: [Latest post title](#)
-- 📈 Weekly coding time: *display from WakaTime (optional)*
-- 🔭 Working on: **project-name** — a short status
-
----
 
 <!-- ====== SHOWCASE ====== -->
 ## Featured Projects
 > Projects I’m proud of — click to explore.
 
-- [**project-repo-1**](https://github.com/YOUR_USERNAME/project-repo-1) — short description of what it does.
-- [**project-repo-2**](https://github.com/YOUR_USERNAME/project-repo-2) — short description, tech used.
-- [**project-repo-3**](https://github.com/YOUR_USERNAME/project-repo-3) — short description, why it’s cool.
+- [**project-repo-1**](https://github.com/Abhi-2473/project-repo-1) — short description of what it does.
+- [**project-repo-2**](https://github.com/Abhi-2473/project-repo-2) — short description, tech used.
+- [**project-repo-3**](https://github.com/Abhi-2473/project-repo-3) — short description, why it’s cool.
 
 ---
 
 <!-- ====== CONTACT / FOOTER ====== -->
 ## Let’s connect
-- ✉️ Email: your.email@example.com
-- 💼 Work: Available for freelance / full-time (replace as appropriate)
-- 🔗 Portfolio: https://your-portfolio.example.com
+- ✉️ Email: mrabhiverma1895@gmail.com
+- 💼 Work: Available for Intern/ full-time
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhi-2473.Abhi-2473" alt="visitor badge"/>
 </p>
