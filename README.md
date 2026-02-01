@@ -1,59 +1,27 @@
-![Banner](https://i.ibb.co/x5DkBdB/github-banner.png)  
-<!-- Replace the link above with your own banner -->
+# 💫 About Me:
+🔭 I’m currently working on MERN Stack & Android App projects<br>🌱 I’m learning Next.js, TypeScript, and React Native<br>👯 I’m looking to collaborate on open-source projects<br>💬 Ask me about React, Node.js, MongoDB, APIs, React Native<br>📫 Reach me at: mrabhiverma1895@gmail.com<br>⚡ Fun fact: I love automating boring tasks 
 
-# Hi 👋, I'm Abhishek Verma
-### 🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-verma247-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrabhiverma1895@gmail.com) 
 
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **MERN Stack projects**
-- 🌱 I’m learning **Next.js, TypeScript, and Cloud DevOps**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, MongoDB, APIs**
-- 📫 Reach me at: **mrabhiverma1895@gmail.com**
-- ⚡ Fun fact: I love automating boring tasks 😎
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhi-247&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abhi-247&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-247&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhi-247&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
-<a href="mailto:your.email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhi-247&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Abhi-247&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,typescript,nextjs,git,github,docker,linux,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi247&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi247&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi247&theme=radical" alt="GitHub streak" />
-</p>
-
----
-
-## 📂 Featured Projects
-- [**Portfolio Website**](https://github.com/Abhi247/portfolio) – My personal portfolio site
-- [**Cool App**](https://github.com/Abhi247/cool-app) – A fun project built with React
-- [**Automation Scripts**](https://github.com/Abhi247/automation) – Useful dev productivity tools
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhi247.Abhi247" alt="visitor badge"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
